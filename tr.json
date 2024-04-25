@@ -15,16 +15,19 @@
     "Harika bir gün için hazırlan!"
   ],
   "afternoon": [
-    "Just finishing your work...",
-    "Afternoon, not morning, not noon",
-    "This day is great",
-    "Almost dinnertime!"
+    "İşini bitirmek üzere...",
+    "Öğleden sonra, ne sabah ne de öğlen",
+    "Bu gün harika geçiyor",
+    "Akşam yemeği zamanına az kaldı!"
   ],
   "evening": [
-    "Just a few calls to make...",
-    "Bon appétit",
-    "Rest, awesome",
-    "You made the difference",
-    "Did you like your food?"
+    "Yapılacak birkaç telefon görüşmesi kaldı...",
+    "Afiyet olsun",
+    "Dinlenme zamanı, harika",
+    "Farkı sen yarattın",
+    "Yemeğini beğendin mi?"
+  ],
+  "....-01-01": [
+    "İyi yıllar!!!"
   ]
 }
