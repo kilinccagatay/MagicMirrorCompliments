@@ -30,13 +30,14 @@ Change it to:
     module: "compliments",
     position: "lower_third",
     config: {
-        remoteFile: "https://raw.githubusercontent.com/michadenheijer/MagicMirrorCompliments/main/nl.json"
+        remoteFile: "https://raw.githubusercontent.com/kilinccagatay/MagicMirrorCompliments/main/tr.json"
     }
 },
 ```
 Change ```nl.json``` to your own language like ```en.json``` or ```fr.json```. The abbreviation of your language can be found above.
 
 ## Credits
+Turkish Cagatay Kilinc aka Me =)
 Dutch and English languages by [Micha den Heijer](https://github.com/michadenheijer), 
 German language by [fixing-it](https://github.com/fixing-it),
 Chuvash language by [mirontoli](https://github.com/mirontoli).
