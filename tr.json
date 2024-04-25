@@ -6,7 +6,7 @@
     "Güzel bir gülümseme, güzel bir gün için",
     "Hala aynaya mı bakıyorsun?",
     "Ayna diyor ki: 'Merhaba'",
-    "Merhaba seksi!"
+    "Her zaman harikasın!"
   ],
   "morning": [
     "Saçların bugün müthiş görünüyor!",
@@ -28,7 +28,7 @@
     "En az palyaço kadar eğlencelisin!"
   ],
   "evening": [
-    "Yapılacak birkaç telefon görüşmesi kaldı...",
+    "Akşamın huzurunu yaşa, gün tamamlandı.",
     "Afiyet olsun",
     "Dinlenme zamanı, harika",
     "Farkı sen yarattın",
@@ -71,5 +71,109 @@
     "Yağmurda dans etmeye ne dersin?",
     "Yağmurlu bir günde kitap okumanın keyfi bir başka.",
     "Pencerenden yağmuru izlerken sıcak bir kahve."
+  ],
+  "day_cloudy": [
+    "Bulutlu bir günde de güneş gizli!",
+    "Bulutların arkasında hep bir güneş vardır.",
+    "Bulutlu bir günde bile ışığını parlat!",
+    "Bulutlar arasından sızan her ışık, bir umuttur.",
+    "Biraz bulut, biraz serinlik, mükemmel bir kombinasyon!",
+    "Bulutların gölgesinde serin bir nefes al."
+  ],
+  "cloudy": [
+    "Bulutlu bir gökyüzü, huzurlu bir gün.",
+    "Bulutlar arasında parlayan güneşi bul!",
+    "Bulutlu günlerde en güzel renkler gökyüzünde saklı.",
+    "Bulutların altında da güzellikler gizlidir.",
+    "Bulutlu bir gün, derin düşüncelere dalmak için mükemmel.",
+    "Gökyüzünün gri tonları da umut dolu."
+  ],
+  "cloudy_windy": [
+    "Bulutlar ve rüzgar, enerjik bir kombinasyon!",
+    "Rüzgarın melodisini dinle ve bulutları izle.",
+    "Rüzgarlı ve bulutlu bir gün, mükemmel düşünme zamanı.",
+    "Rüzgar bulutları sürüklüyor, yeni manzaralar açıyor.",
+    "Rüzgarın sesi, bulutların dansı.",
+    "Bulutlu ve rüzgarlı bir gün, doğanın hareketli bir tablosu."
+  ],
+  "showers": [
+    "Kısa yağmur çisentileri, doğanın melodisi.",
+    "Bir şemsiye kap, yağmur çiseleyebilir!",
+    "Yağmur çisentisiyle tazelik zamanı.",
+    "Serinletici çisentiler, günü canlandırıyor.",
+    "Küçük damlalar, büyük neşeler.",
+    "Yağmur çisentileri, doğanın nazik dokunuşu."
+  ],
+  "thunderstorm": [
+    "Gök gürültüsü ve şimşekler, doğanın konseri!",
+    "Fırtınalı bir gün, güçlü bir kahve günü.",
+    "Şimşekler çaktığında, doğa sahneye çıkar.",
+    "Gök gürültüsüyle yankılanan anlar.",
+    "Şimşeklerin dansı, gökyüzünün ışıkları.",
+    "Fırtına öncesi huzur, fırtına sırasında heyecan."
+  ],
+  "fog": [
+    "Sisli bir sabah, gizemli bir macera.",
+    "Sis perdesi ardında saklı güzellikleri keşfet.",
+    "Sis içinde kaybolmak, yeni bir dünya keşfetmek gibidir.",
+    "Sis, her şeyi bir örtüyle kaplar, gizem yaratır.",
+    "Sisli günlerin sessiz huzuru.",
+    "Sis, gördüğümüz dünyayı yeniden şekillendirir."
+  ],
+  "night_clear": [
+    "Yıldızlı bir gece, huzur verici.",
+    "Ay ışığında bir yürüyüşe çık.",
+    "Gecenin berrak gökyüzünde yıldız sayma vakti.",
+    "Berrak bir gece, sonsuz yıldızlarla dolu.",
+    "Karanlıkta parlayan yıldızlar gibi, umutlar da parlar.",
+    "Ayın aydınlattığı yollar, geceyi keşfet."
+  ],
+  "night_cloudy": [
+    "Bulutlu bir gece, yıldızları hayal et.",
+    "Gecenin bulutlu örtüsü altında rüyalar sizi bekliyor.",
+    "Bulutlarla kaplı bir gecede gizem arayışı.",
+    "Bulutlar, gece gökyüzünü bir tabloya çevirir.",
+    "Gecenin bulutları, gündüzün sırlarını saklar.",
+    "Yıldızların arkasında gizlenen bulutlu bir gizem."
+  ],
+  "night_showers": [
+    "Gece yağmurları, pencerenden dinle.",
+    "Gece çiseleyen yağmur, rahatlatıcı bir uyku.",
+    "Yağmurun gece melodisi, doğanın lullabiesi.",
+    "Gece yağmurları, düşlerin üzerine yağar.",
+    "Uykuya dalarken yağmurun tatlı sesi.",
+    "Gece yağmuru, serin ve taze."
+  ],
+  "night_rain": [
+    "Gece yağmuru, doğanın ninnisi.",
+    "Yağmur altında bir gece, düşüncelere dal.",
+    "Gece yağmurlarının ritmiyle uykuya dal.",
+    "Gece yağmurunun ritmi, düşünceleri yıkar.",
+    "Yağmurlu bir gece, düşüncelerinize eşlik eder.",
+    "Gece yağmuru, gecenin melodisini çalar."
+  ],
+  "night_thunderstorm": [
+    "Geceleyin şimşekler ve gök gürültüsü, doğanın şovu devam ediyor.",
+    "Gecenin fırtınasında rahat bir uyku.",
+    "Gök gürültüsü altında, gece daha da heyecanlı.",
+    "Gece fırtınası, yıldırımlarla dolu.",
+    "Şimşekler geceyi aydınlatırken, dünya dinlenir.",
+    "Gecenin gök gürültüsü, uyumadan önceki son notalar."
+  ],
+  "night_snow": [
+    "Gece kar yağışı, sessiz ve huzurlu.",
+    "Kar taneleri geceyi aydınlatıyor.",
+    "Yumuşak kar altında sessiz bir gece yürüyüşü.",
+    "Karın sessiz düşüşü, geceye huzur katar.",
+    "Gece karı, sessizliğin melodisini çalar.",
+    "Yavaşça düşen kar taneleri, geceyi beyaza bürür."
+  ],
+  "night_alt_cloudy_windy": [
+    "Gecenin rüzgarı ve bulutları, gizemli bir kombinasyon.",
+    "Rüzgarlı ve bulutlu bir gece, düşler aleminde gezinti.",
+    "Gece rüzgarının esintisiyle bulutların dansı.",
+    "Rüzgar ve bulutların gece senfonisi.",
+    "Bulutlu ve rüzgarlı bir gecede, rüzgarın şarkısını dinle.",
+    "Gecenin karanlığında rüzgar, bulutları oynatır."
   ]
 }
