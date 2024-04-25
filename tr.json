@@ -1,30 +1,30 @@
 {
-        "anytime": [
-                "Bugün harika görünüyorsun!",
-                "Bugün inanılmaz bir gün!",
-                "Sen fark yaratıyorsun",
-                "Güzel bir gülümseme, güzel bir gün için",
-                "Hala aynaya mı bakıyorsun?",
-                "Ayna diyor ki: 'Merhaba'"
-        ],
-        "morning": [
-                "Saçların bugün müthiş görünüyor!",
-                "Güne bir gülümsemeyle başla",
-                "Harika bir gün olacak!",
-                "Gün müthiş değil mi?",
-                "Harika bir gün için hazırlan!"
-        ],
-        "afternoon": [
-                "İşini bitirmek üzere...",
-                "Öğleden sonra, ne sabah ne de öğlen",
-                "Bu gün harika geçiyor",
-                "Akşam yemeği zamanına az kaldı!"
-        ],
-        "evening": [
-                "Yapılacak birkaç telefon görüşmesi kaldı...",
-                "Afiyet olsun",
-                "Dinlenme zamanı, harika",
-                "Farkı sen yarattın",
-                "Yemeğini beğendin mi?"
-        ]
+  "anytime": [
+    "Bugün harika görünüyorsun!",
+    "Bugün inanılmaz bir gün!",
+    "Sen fark yaratıyorsun",
+    "Güzel bir gülümseme, güzel bir gün için",
+    "Hala aynaya mı bakıyorsun?",
+    "Ayna diyor ki: 'Merhaba'"
+  ],
+  "morning": [
+    "Saçların bugün müthiş görünüyor!",
+    "Güne bir gülümsemeyle başla",
+    "Harika bir gün olacak!",
+    "Gün müthiş değil mi?",
+    "Harika bir gün için hazırlan!"
+  ],
+  "afternoon": [
+    "Just finishing your work...",
+    "Afternoon, not morning, not noon",
+    "This day is great",
+    "Almost dinnertime!"
+  ],
+  "evening": [
+    "Just a few calls to make...",
+    "Bon appétit",
+    "Rest, awesome",
+    "You made the difference",
+    "Did you like your food?"
+  ]
 }
