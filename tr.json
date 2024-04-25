@@ -5,39 +5,71 @@
     "Sen fark yaratıyorsun",
     "Güzel bir gülümseme, güzel bir gün için",
     "Hala aynaya mı bakıyorsun?",
-    "Ayna diyor ki: 'Merhaba'"
+    "Ayna diyor ki: 'Merhaba'",
+    "Merhaba seksi!"
   ],
   "morning": [
     "Saçların bugün müthiş görünüyor!",
     "Güne bir gülümsemeyle başla",
     "Harika bir gün olacak!",
     "Gün müthiş değil mi?",
-    "Harika bir gün için hazırlan!"
+    "Harika bir gün için hazırlan!",
+    "Günaydın, gün ışığı!",
+    "Gülüşün varken kim kahveye ihtiyaç duyar?",
+    "Hadi aslanım, göster kendini!"
   ],
   "afternoon": [
     "İşini bitirmek üzere...",
     "Öğleden sonra, ne sabah ne de öğlen",
     "Bu gün harika geçiyor",
-    "Akşam yemeği zamanına az kaldı!"
+    "Akşam yemeği zamanına az kaldı!",
+    "Formunu buldun!",
+    "Fark yaratıyorsun!",
+    "En az palyaço kadar eğlencelisin!"
   ],
   "evening": [
     "Yapılacak birkaç telefon görüşmesi kaldı...",
     "Afiyet olsun",
     "Dinlenme zamanı, harika",
     "Farkı sen yarattın",
-    "Yemeğini beğendin mi?"
+    "Yemeğini beğendin mi?",
+    "Bugün birini gülümsettin, biliyorum.",
+    "Fark yaratıyorsun.",
+    "Çabalarınla gün daha iyi geçti."
   ],
   "....-01-01": [
-    "İyi yıllar!!!"
+    "İyi yıllar!!!",
+    "Yeni yılın kutlu olsun, harika bir yıl dilerim!",
+    "Yeni bir yıl, yeni başlangıçlar! Mutlu yıllar!",
+    "Gelecek yıl için en iyi dileklerimle, mutlu yıllar!",
+    "Yeni yılın ilk gününden merhaba! İyi yıllar!",
+    "Yeni yılın tüm güzellikleriyle gelmesi dileğiyle, mutlu yıllar!"
   ],
   "day_sunny": [
     "Bugün güneşli bir gün",
-    "Harika bir gün"
+    "Harika bir gün",
+    "Güneş parlıyor, gününü parlat!",
+    "Güneşli bir günde dışarıda olmanın keyfini çıkar",
+    "Güneş ışığına çık ve enerjini tazele",
+    "Güneşli bir gün, mükemmel bir macera için harika bir fırsat",
+    "Bugün hava mükemmel, dışarı çıkıp biraz soluklan!"
   ],
   "snow": [
-    "Kartopu savaşıııı!"
+    "Kartopu savaşıııı!",
+    "Karın keyfini çıkar, kış burada!",
+    "Kar taneleri düşerken sıcak bir içecek zamanı.",
+    "Karla kaplı dünyada bir yürüyüşe ne dersin?",
+    "Kış manzarasının tadını çıkar!",
+    "Kar meleği yapma zamanı geldi!",
+    "Bembeyaz bir sabaha uyanmak gibisi yok."
   ],
   "rain": [
-    "Şemsiyeni almayı unutma"
+    "Şemsiyeni almayı unutma",
+    "Yağmur damlaları, yürüyüşe çıkmak için davetkar.",
+    "Yağmur sesiyle rahatlamak harika!",
+    "Bir yağmur sonrası temiz hava solumak gibisi yok.",
+    "Yağmurda dans etmeye ne dersin?",
+    "Yağmurlu bir günde kitap okumanın keyfi bir başka.",
+    "Pencerenden yağmuru izlerken sıcak bir kahve."
   ]
 }
